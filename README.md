@@ -8,3 +8,31 @@ I tried my best to make this as clean as possible for readability:
 I have done my absolute best to comment everything in depth so if anyone is reading it (aka you, whom ever you may be mysterious reader) can use this a learning tool
 
 *This code is also far from perfect, it works and are just the solutions that first came to mind when reading each problem. I am sure they could be solved fast and with less code, so feel free to tweak anything and everything you find in this project!!*
+
+### Days Solved
+
+- [x] Day 1 
+- [ ] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
+- [ ] Day 8
+- [ ] Day 9
+- [ ] Day 10 
+- [ ] Day 11
+- [ ] Day 12 
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19 
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
+- [ ] Day 25
