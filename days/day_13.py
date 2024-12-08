@@ -2,11 +2,16 @@
 def day_13():
     print("Starting to Solve Day Thirteen")
 
-    #default solution for all days is unsolved, once the day is solved then this block of code be replaced with the real solution
-    solution = "This Day has Not Been Solved Yet"
+    ##PART ONE
+    part_one_sol = "Not Solved"
+
+    ##PART TWO
+    part_two_sol = "Not Solved"
+
+    #combine part one and part two solution and return
+    solution = "".join(["\nPart 1 - ", part_one_sol, "\nPart 2 - ", part_two_sol])
 
     return solution
-
 
 #it is always good practice to have a main function even if you do not plan to use it. In this file the plan is just to call the day_xx function directly
 def main():
