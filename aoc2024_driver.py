@@ -49,7 +49,7 @@ def _print_day_string(day):
 
 #the "_" at the start of this function marks it as an internal function that cannot be called by outside scripts
 def _print_solution_string(day, solution):
-    print("".join(["The Solution to ", day, " is: ", solution]))
+    print("".join(["The Solution to Day ", day, " is: ", solution]))
 
 #main function
 def main():
