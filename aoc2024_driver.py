@@ -56,7 +56,7 @@ def main():
     print("***Welcome to the 2024 Advent of Code***")
 
     #for now just update this manually, but could eventually set this up to allow actual user
-    user_input = "1"
+    user_input = "2"
 
     #call the function mapper that will run the script needed to solve the selected day
     solve_selected_day(user_input)
